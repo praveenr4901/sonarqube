@@ -1,0 +1,293 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+* {
+  box-sizing: border-box;
+  font-family: 'Libre Baskerville', serif !important;
+}
+.css-1ttotr5-MuiContainer-root {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.css-uh0tke-MuiContainer-root {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.css-m9cpa7-MuiContainer-root {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.css-1igmvn2 {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.css-1xgjpwf-MuiGrid-root {
+  margin-left: 0px !important;
+  margin-top: 0px !important;
+}
+
+.css-1xgjpwf-MuiGrid-root {
+  width: 100% !important;
+}
+
+.playstore-btn {
+  width: 161px !important;
+  height: 51px !important;
+  background-color: #000000 !important;
+  color: #fff !important;
+  box-shadow: -1px 15px 19px rgba(255, 255, 255, 0.25) !important;
+  border-radius: 6px !important;
+  cursor: pointer !important;
+}
+
+.welcome-text {
+  font-style: normal !important;
+  font-weight: 800 !important;
+  font-size: 32px !important;
+  color: #fff !important;
+  line-height: 50px !important;
+  font-family: 'Libre Baskerville', serif !important;
+
+
+}
+
+.welcome-mainText {
+  font-style: normal !important;
+  font-weight: 800 !important;
+  font-size: 50px !important;
+  line-height: 50px !important;
+  color: #fff !important;
+  font-family: 'Libre Baskerville', serif !important;
+
+
+}
+
+.welcome-paragraph {
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  line-height: 28px !important;
+  color: #fff !important;
+  font-family: 'Libre Baskerville', serif !important;
+}
+
+.second-heading {
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 31px !important;
+  font-family: 'Libre Baskerville', serif !important;
+}
+
+.second-subHead {
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  line-height: 25px !important;
+  font-family: 'Libre Baskerville', serif !important;
+}
+
+.card-heading {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31px;
+  line-height: 35px;
+  font-family: 'Libre Baskerville', serif !important;
+}
+
+.card-subHead {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 35px;
+  font-family: 'Libre Baskerville', serif !important;
+}
+
+.css-19r6kue-MuiContainer-root {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.css-bxfjn {
+  width: 330px !important;
+  height: 600px !important;
+}
+
+.features-heading {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 35px;
+}
+
+.features-subHead {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 25px;
+}
+
+.store-text {
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  color: #FFFFFF !important;
+}
+
+.get-app {
+  background: linear-gradient(180deg, #207158 0%, #3BE1AC 99.99%, #39B38C 100%);
+  border-radius: 19px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.feed-box {
+  background: linear-gradient(0deg, rgba(241, 246, 253, 0) 1.63%, #F1F6FD 20.5%, #F1F6FD 58.57%, #FFFFFF 100%);
+  height: auto;
+}
+
+.cardBox {
+  background: #FFFFFF;
+  box-shadow: 14px 22px 52px rgba(127, 127, 127, 0.13) !important;
+  border-radius: 14px;
+  display: flex;
+}
+
+.cardBtn {
+  background: linear-gradient(154.49deg, #5CA1FE 6.61%, #217BF4 89.72%);
+  box-shadow: 0px 10px 22px -2px rgba(109, 171, 255, 0.36);
+  font-family: Libre Baskerville !important;
+}
+
+.cardBtn2 {
+  background: linear-gradient(154.49deg, #FF858A 6.61%, #F04148 89.72%);
+  box-shadow: 0px 8px 22px -2px rgba(248, 87, 94, 0.3);
+  font-family: Libre Baskerville !important;
+}
+
+.cardBtn3 {
+  background: linear-gradient(154.49deg, #FFD085 6.61%, #FFAF2E 89.72%);
+  box-shadow: 0px 10px 22px -2px rgba(250, 186, 84, 0.3);
+  font-family: Libre Baskerville !important;
+}
+
+.getapp-head {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 35px;
+  color: #fff;
+}
+.image-sliders {
+  background-size: contain !important;
+  width: 100%;
+  height: 680px;
+}
+.question-tag{
+  font-weight: 400 !important;
+  font-size: 16px;
+  line-height: 26px;
+  color: #2F2C4A !important;
+}
+
+.playBtn{
+  background: #22CA94 !important;
+  color: #F0F5FC !important;
+  font-size: 12px !important;
+  text-transform: capitalize !important;
+}
+.awssld__content{
+  background : transparent !important;
+  justify-content: center !important;
+}
+.awssld__content .content-box {
+  display: flex;
+  gap: 10px !important; 
+}
+.awssld__content .content-box .text-box{
+  padding: 0px 10px 0px 10px !important;
+  width:50%;
+  text-align: center;
+}
+.awssld__container{
+  padding-bottom: 38% !important;
+}
+.getapp-subHead {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 25px;
+  color: #fff;
+}
+
+.css-1ekb41w {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+@media screen and (max-width: 900px) {
+  .awssld__content .content-box {
+    flex-direction: column; 
+  }
+  .awssld__container{
+    padding-bottom: 100% !important;
+  }
+  .awssld__content .content-box .text-box{
+    padding: 0px 20px 0px 30px !important;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 764px) {
+  .awssld__container{
+    padding-bottom: 130% !important;
+  }
+  .awssld__content .content-box {
+    padding: 10; 
+  }
+  .awssld__content .content-box .text-box{
+    padding: 0px 0px 0px 60px !important;
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .awssld__content .content-box .text-box{
+    padding: 0px 0px 0px 88px !important;
+    width: 85%;
+  }
+  .awssld__container{
+    padding-bottom: 150% !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .css-bxfjn {
+    width: 180px !important;
+    height: 380px !important;
+  }
+
+  .css-1t2y3z9 {
+    width: 350px !important;
+    height: 450px !important
+  }
+  .awssld__container{
+    padding-bottom: 170% !important;
+  }
+  .awssld__content .content-box .text-box{
+    padding: 0px 0px 0px 120px !important;
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .awssld__content .content-box .text-box{
+    padding: 0px 0px 0px 140px !important;
+  }
+  .awssld__container{
+    padding-bottom: 220% !important;
+  }
+}
